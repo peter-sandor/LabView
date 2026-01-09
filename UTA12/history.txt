@@ -1,0 +1,39 @@
+v1.1
+
+- corrected help file link in the context menu of the VIs
+
+v1.2
+
+- added two example VIs
+
+v1.3
+
+- added introduction guide
+
+v1.4
+
+- new design of the VI icons
+- reworked uta_rw_with_string.vi to also accept real values as setvalues resp. put out actual values in real format
+- created uta_init.vi in order to initialise the control of the UTA12 with the uta_rw_with_string.vi
+- added an application example
+
+v1.5
+
+- removed bug in uta_list.vi, where it returned wrong data when multiple UTA12s are connected (command buffer was in a loop)
+
+v1.6
+
+- device table output of uta_list.vi changed into a cluster array. it now contains the FT enumerator device number.
+
+V2.01
+
+- Errorhandling in uta_list.vi changed
+- uta_rw_with_string.vi error fixed in mode SetCurrent.Evaluating the number in float format changed.
+
+V2.02
+
+- Corrected application_example_1.vi 
+
+V2.03
+
+- Updated documentation about uta_list.vi

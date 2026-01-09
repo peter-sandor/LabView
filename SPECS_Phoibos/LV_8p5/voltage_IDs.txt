@@ -1,0 +1,10 @@
+﻿0 Kinetic Energy
+1 Pass Energy
+2 Focus displacement 1
+3 Focus displacement 2
+4 Detector Voltage
+5 Conversion Voltage
+6 Screen Voltage
+7 Aux Voltage
+8 Coil Current
+9 Work Function

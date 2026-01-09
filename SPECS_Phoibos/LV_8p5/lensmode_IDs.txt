@@ -1,0 +1,13 @@
+﻿13 - HighMagnification 1.5 kV
+14 - MediumMagnification 1.5 kV
+15 - LowMagnification 1.5 kV
+16 - HighAngularDispersion 1.5 kV
+17 - MediumAngularDispersion 1.5 kV
+18 - LowAngularDispersion 1.5 kV
+19 - WideAngleMode 1.5 kV
+20 - LargeAreaMode 1.5 kV
+21 - MediumAreaMode 1.5 kV
+22 - SmallAreaMode 1.5 kV
+23 - HighMagnification2 1.5 kV
+24 - SmallArea2 1.5 kV
+25 - ImagingMode 1.5 kV
